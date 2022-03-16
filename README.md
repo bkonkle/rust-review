@@ -1,2 +1,5 @@
-# rust-review
-A bi-weekly YouTube live show covering the Rust language community
+# Rust Review
+
+A bi-weekly YouTube live show covering the Rust language community!
+
+(coming soon)
